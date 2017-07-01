@@ -13,8 +13,6 @@ Finally generates a Intermediate code.
 
 
 # Contributors:
-     Dhamodhran
-
-     Siddharth R Koti
-
-     Tejaswini
+ 1. Dhamodhran ([@svella9](https://github.com/svella9))
+ 2. Siddharth R Koti
+ 3. Tejaswini
