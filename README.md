@@ -13,6 +13,8 @@ Finally generates a Intermediate code.
 
 
 # Contributors:
-  Dhamodhran
-  Siddharth R Koti
-  Tejaswini
+     Dhamodhran
+
+     Siddharth R Koti
+
+     Tejaswini
